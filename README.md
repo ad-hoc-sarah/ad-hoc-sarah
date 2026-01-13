@@ -2,8 +2,6 @@
 
 <img src="https://github.com/ad-hoc-sarah/ad-hoc-sarah/blob/main/code-gif.gif" alt="The cute kitten wants you to write better code please." width="450px" align="right" />
 
-👤 My name's Sarah Sachs. 
-
 💚 I'm a frontend developer with Ad Hoc. 
 
 🏥 I work on the MEA team.
