@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hello world!
+
+👤 My name's Sarah Sachs. 
+
+💚 I'm a frontend developer with Ad Hoc. 
+
+🏥 I work on the MEA team.
 
 <!--
 **ad-hoc-sarah/ad-hoc-sarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
